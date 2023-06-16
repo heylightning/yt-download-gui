@@ -5,7 +5,7 @@ I designed a GUI (Graphical User Interface) using Streamlit and Python to downlo
 ## Setup main.py file: -
 * Install all the requirements from the **requirements.md** file.
 * Clone the repository using this command: ` $ git clone git@github.com:heylightning/yt-download-gui.git `
-* Run the **main.py** file using this command: ` $ python main.py `
+* Run the **main.py** file using this command: ` $ streamlit run main.py `
 
 ### LICENSE
 
