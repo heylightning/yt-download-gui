@@ -3,7 +3,11 @@
 I designed a GUI (Graphical User Interface) using Streamlit and Python to download audios and videos from YouTube links.
 
 ## Setup main.py file: -
-* Install all the requirements from the **requirements.md** file.
+* Install all the requirements from the **requirements.md** file. or simply run the following command:
+```bash
+pip install -r requirements.txt
+
+```
 * Clone the repository using this command: ` $ git clone git@github.com:heylightning/yt-download-gui.git `
 * Run the **main.py** file using this command: ` $ streamlit run main.py `
 
